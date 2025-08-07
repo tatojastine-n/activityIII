@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\SurveyAnalyzer\bin\Debug\SurveyAnalyzer.exe.config
+C:\Users\HP\source\repos\SurveyAnalyzer\bin\Debug\SurveyAnalyzer.exe
+C:\Users\HP\source\repos\SurveyAnalyzer\bin\Debug\SurveyAnalyzer.pdb
+C:\Users\HP\source\repos\SurveyAnalyzer\obj\Debug\SurveyAnalyzer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SurveyAnalyzer\obj\Debug\SurveyAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SurveyAnalyzer\obj\Debug\SurveyAnalyzer.exe
+C:\Users\HP\source\repos\SurveyAnalyzer\obj\Debug\SurveyAnalyzer.pdb
